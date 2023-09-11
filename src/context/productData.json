@@ -1,0 +1,58 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Product 1",
+        "price": 1010,
+        "image": "https://i5.walmartimages.com/seo/Kids-Headphones-Wired-Over-Ear-Toddler-Headphones-with-Microphone-for-School-Girls-Boys_a3581e4f-5842-42e3-97a0-683dd06fcf49.0f468cec914a1cbafbc279b75bab99be.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+        "inStock": 0,
+        "fastDelivery": true,
+        "ratings": 4
+      },
+      {
+        "id": "2",
+        "name": "Product 2",
+        "price": 1999,
+        "image": "https://target.scene7.com/is/image/Target/GUEST_7dfef3d2-6af7-4c52-a3db-e3898afd8e12?wid=488&hei=488&fmt=pjpeg",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 5
+      },
+      {
+        "id": "3",
+        "name": "Product 3",
+        "price": 2999,
+        "image": "https://i5.walmartimages.com/seo/Kids-Headphones-Wired-Over-Ear-Toddler-Headphones-with-Microphone-for-School-Girls-Boys_ac45bcb3-48f7-470f-8a2d-659a5588d9c7.ff233fff696181a89829a5260fa9a0db.jpeg?odnHeight=320&odnWidth=320&odnBg=FFFFFF",
+        "inStock": 4,
+        "fastDelivery": false,
+        "ratings": 2
+      },
+      {
+        "id": "4",
+        "name": "Product 4",
+        "price": 1444,
+        "image": "https://m.media-amazon.com/images/I/71LyBhSIInL._AC_UF1000,1000_QL80_.jpg",
+        "inStock": 2,
+        "fastDelivery": true,
+        "ratings": 4
+      },
+      {
+        "id": "5",
+        "name": "Product 5",
+        "price": 8044,
+        "image": "https://m.media-amazon.com/images/I/71KJT5NgJcL._AC_UF350,350_QL50_.jpg",
+        "inStock": 2,
+        "fastDelivery": true,
+        "ratings": 3
+      },
+      {
+        "id": "6",
+        "name": "Product 6",
+        "price": 84.84,
+        "image": "https://m.media-amazon.com/images/I/61w4Jd0+V0L._AC_UF894,1000_QL80_.jpg",
+        "inStock": 4,
+        "fastDelivery": false,
+        "ratings": 4
+      }
+    ]
+  }
