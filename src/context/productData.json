@@ -48,11 +48,29 @@
       {
         "id": "6",
         "name": "Product 6",
-        "price": 84.84,
+        "price": 6484,
         "image": "https://m.media-amazon.com/images/I/61w4Jd0+V0L._AC_UF894,1000_QL80_.jpg",
         "inStock": 4,
         "fastDelivery": false,
         "ratings": 4
+      },
+      {
+        "id": "7",
+        "name": "Product 7",
+        "price": 8484,
+        "image": "https://images.philips.com/is/image/PhilipsConsumer/TAKH402PK_00-IMS-en_LB?$jpglarge$&wid=1250",
+        "inStock": 2,
+        "fastDelivery": true,
+        "ratings": 3
+      },
+      {
+        "id": "8",
+        "name": "Product 8",
+        "price": 2284,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNyePS5E_NnoXuoPFigp9gvlaG8rd6h_hXPy7W4ID7GCY5bVwUzJYlrBpWh8QA0BerQ4&usqp=CAU",
+        "inStock": 3,
+        "fastDelivery": false,
+        "ratings": 3
       }
     ]
   }
